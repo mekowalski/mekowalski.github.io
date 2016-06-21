@@ -4,7 +4,7 @@ title:  "Me, a novice, learning to use Git"
 date:   2016-06-21 20:20:43 +0000
 ---
 
-In the beginning, I learned abut Git and I was confused with it.
+In the beginning, I learned abut Git and I was confused with it!
 
 When I began encountering Git it was from learning the basics in the lessons.  To me they were commands written in order to create, save and upload your code onto Github.  Yes this was correct but I simply thought, "This git command is an extension of Github."  Later I learned that git specifically manages and tracks the changes made for your files and projects.  Now I didn't grasp why this was a big concept at first but I soon began to understand why Git is important for developers in the real world of coding.  
 
