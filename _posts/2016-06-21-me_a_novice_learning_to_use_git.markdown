@@ -10,7 +10,7 @@ When I began encountering Git it was from learning the basics in the lessons.  T
 
 There are three parts to Git, I drew a simple chart in my Moleskin to remind me how to use Git efficiently and effectively.  This is where I learned about Git Workflow.
 
-<img  src="https://s20.postimg.org/seagujkt9/IMG_20160621_134832.jpg"/>
+<img  src="https://s20.postimg.org/seagujkt9/IMG_20160621_134832.jpg" align="center"/>
 
 Part one was the Working Directory.  This is where I made changes, modified, added and deleted code for my projects.  Originally I used Git commands not really understanding what I did with them.  During this part of the Workflow I was updating information in my project's code and imrpoving my projects to where I wanted it to be.  I finally understood this was a beginning marker of coding a project but I did this without utilizing part two consistently.
 
