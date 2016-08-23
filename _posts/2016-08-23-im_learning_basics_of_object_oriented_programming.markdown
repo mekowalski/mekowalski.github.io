@@ -12,14 +12,14 @@ Because of this, programmers needed to section off parts of code that would perf
 
 I present to you Object Oriented Programming.
 
-### Ruby's Objects
+## Ruby's Objects
 Often you'll hear in the Ruby community "Everything is an object in Ruby!" Right now it's neccessary to get a handle of the basic Ruby syntax before thinking of objects.
 
 Overall it is true, everything in Ruby is an object.  These objects are created from classes.  You can think of classes as a cookie cutter and the objects are the thngs created from the cookie cutter.  Each individual object contains different information yet they are intances of the same class.  Below is an example of the String class.  This example shows us using the class method to determine what class is for each object.  As you can see, what we've been using, from strings to integers, are objects that are instantiated from a class. I'll touch on instantiation soon.
 
 ![](https://s20.postimg.org/srk1y4y8t/oo_blog.jpg)
 
-### Objects Defined by Class
+## Objects Defined by Class
 Attributes and behaviors are defined in Ruby by classes.  It's simply a basic outline of what the object should be made of and what it's capable of doing.  When defining a class we use the syntax similar to defining a method.  We replace *def* with *class* and use the CamelCase naming format to create the name.  We finish the definition with *end*.  File names in Ruby should be *snake_case* and reflect the class name.  In my example below, I'm not using the *snake_case* format but the filename matches the class name.
 
 ![](https://s20.postimg.org/he240od3x/oo_blog_filename.jpg)
