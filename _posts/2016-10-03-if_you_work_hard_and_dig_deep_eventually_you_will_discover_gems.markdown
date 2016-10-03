@@ -51,4 +51,4 @@ This was a huge learning curve for me.  I learned that I can build a gem.  I lea
 After over two weeks I now have a simple yet beautiful gem.  As mentioned a couple times, it is very simple, nonetheless all gems are precious and valuable.
 
 
-(<iframe width="560" height="315" src="https://www.youtube.com/embed/yS1fbJIle-s" frameborder="0" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yS1fbJIle-s" frameborder="0" allowfullscreen></iframe>
