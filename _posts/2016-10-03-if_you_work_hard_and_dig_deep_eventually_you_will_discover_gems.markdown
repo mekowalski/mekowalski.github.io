@@ -46,7 +46,7 @@ Once I had a legitimate, working gem I was able to install my gem and run the co
 
 # The final stretch
 
-This was a huge learning curve for me.  I learned that I can build a gem.  I learned that my peers are beyond helpful.  I learned that I wanted to give up many times only to get back at it.  I tested my gem many times with the help of others playing with it and giving feedback.  There were moments that I reworked my code and it broke.  There were moments when it was smooth sailing.  Now, I'm excited to learn what else I can build.
+This was a huge learning curve for me.  I learned that I can build a gem.  I learned that my peers are beyond helpful.  I learned that I wanted to give up many times only to get back at it.  I tested my gem many times with the help of others playing with it and giving feedback.  There were moments that I reworked my code and it broke.  There were moments when it was smooth sailing.  Now, I'm excited to learn what else I can build!
 
 After over two weeks I now have a simple yet beautiful gem.  As mentioned a couple times, it is very simple, nonetheless all gems are precious and valuable.
 
