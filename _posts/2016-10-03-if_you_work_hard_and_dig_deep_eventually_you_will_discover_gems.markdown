@@ -15,7 +15,7 @@ Since there are so many breweries for the small mountain town I reside in, I dec
 
 I built the base of my gem using `gem bundler`.  This helped me save on a headache that would have accrued if I decided to build my files, folders and informative articles one by one.  Using `gem bundler` made me feel confident in building my gem and I mainly had to go back, with given instructions to edit a few lines for my gem to work.
 
-## *CLI wants to play*
+## CLI wants to play
 
 This is where the fun begins.  I watched a [gem walkthrough video](http://youtu.be/_lDExWIhYKI) many times to fully understand how to begin building a gem.  I followed along for a few days to build a fake yet working command line interface. It was a process.  To build my CLI I wanted it to do a few things.
 
@@ -27,7 +27,7 @@ This is where the fun begins.  I watched a [gem walkthrough video](http://youtu.
 
 These simple requirements were how the gem would engage with the user.  I spent a few days building code that would just work.  Afterwards I refined what I wanted the CLI to do through interatction.  Though I had fake information that was available through the command line, I still had a working command line interface finally.  Now forward.
 
-## *Digging for real*
+## Digging for real
 
 Now that the CLI part was working I needed to present real information regarding the breweries.  I had much frustration and fun on scraping data from [Durango.org](http://www.durango.org/listings/category/microbreweries).  Frustration because scraping is very meticulous and time consuming.  Fun because once I had the data scraped I was able to play around in the console make my code work.  While begining the scraping method I had a few requirements.
 
@@ -44,7 +44,7 @@ While I played around, broke down and built up my code over and over, I began to
 
 Once I had a legitimate, working gem I was able to install my gem and run the command `micro_breweries` and see the greeting, the list and the options.  
 
-## *The final stretch*
+## The final stretch
 
 This was a huge learning curve for me.  I learned that I can build a gem.  I learned that my peers are beyond helpful.  I learned that I wanted to give up many times only to get back at it.  I tested my gem many times with the help of others playing with it and giving feedback.  There were moments that I reworked my code and it broke.  There were moments when it was smooth sailing.  Now, I'm excited to learn what else I can build.
 
