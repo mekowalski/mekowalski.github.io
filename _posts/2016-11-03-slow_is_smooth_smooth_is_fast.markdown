@@ -6,7 +6,7 @@ date:   2016-11-03 13:19:00 -0400
 
 My mind was in the over-acheiver mode when I began Flatiron.
 
-I had no background experience with programming.  I had no idea the mental growth coding had to offer.  I did not realize this was going to be a great challange.  I decided to learn code and I also decided that I was going to do this all through Flatiron School in a matter of five to six months.  Right, no big deal.  I definitely had a coding wake up call.
+I had no background experience with programming.  I had no idea the mental growth coding had to offer.  I did not realize this was going to be a great challenge.  I decided to learn code and I also decided that I was going to do this all through Flatiron School in a matter of five to six months.  Right, no big deal.  I definitely had a coding wake up call.
 
 It's now November and this was supposed to be around the time that I would finish the Full Stack Web Development course.  Well guess what?  I'm here still!  Learning Ruby stretch my mind to it's greatest potential.  I had a huge confidence coming into code, I had excitement to grasp all the concepts and use them daily.  In the matter of six months I was still learning Ruby.  My confidence begin to dwindle and I became less ecstatic about coding.
 
