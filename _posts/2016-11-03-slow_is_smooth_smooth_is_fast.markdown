@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Slow is smooth, smooth is fast."
-date:   2016-11-03 17:19:00 +0000
+date:   2016-11-03 13:19:00 -0400
 ---
 
 My mind was in the over-acheiver mode when I began Flatiron.
