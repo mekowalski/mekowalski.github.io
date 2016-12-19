@@ -1,5 +1,5 @@
 # Site settings
-title: The Nikulski Adventure
+title: The Malind Adventures
 header-img: img/trial2.jpg
 email: malind.nikulski@gmail.com
 copyright_name: menikulski
@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
-github_username:  menikulski
-learn_profile: menikulski
+github_username:  mekowalski
+learn_profile: mekowalski
 email_username: malind.nikulski@gmail.com
 
 # Build settings
