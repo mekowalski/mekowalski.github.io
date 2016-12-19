@@ -4,7 +4,7 @@ title:  "This Cool Flatiron Twitter Lab"
 date:   2016-12-19 14:36:05 -0500
 ---
 
-# I get by with a little help from my friends
+I get by with a little help from my friends
 
 Last week I had the opputunity to work on a lab with a Flatiron student.  I could have done the project alone but I decided I need practice working with others.  For our lab we needed to build the right views, models and controller actions to create the Fwitter App, a contraction for Flatiron Twitter.  Let me tell you, it was a fun experience.
 
