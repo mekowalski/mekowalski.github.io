@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This Cool Flatiron Twitter Lab"
-date:   2016-12-19 19:36:05 +0000
+date:   2016-12-19 14:36:05 -0500
 ---
 
 ### I get by with a little help from my friends
