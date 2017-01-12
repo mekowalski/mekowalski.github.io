@@ -54,7 +54,7 @@ User photo action to handle file submission
       redirect "/users/#{@user.id}/edit"
     end
   end
-	```
+```
 
 Post Form
 
@@ -93,6 +93,6 @@ Post action to handle file submitssion
       redirect '/posts/new'
     end
   end
-	```
+```
 	
 	
