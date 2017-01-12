@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Uploader for Sinatra Portfolio Project"
-date:   2017-01-12 20:35:33 +0000
+date:   2017-01-12 15:35:34 -0500
 ---
 
 Simply put, I wanted to build a web app that would upload images and display them.
@@ -21,7 +21,8 @@ This upload function was then executed in my `UserController PATCH action` and `
 ## Responsibility
 In a few examples I browsed, the upload function was responsible for retrieving, opening, writing and saving the files in its own controller.  This was plausible but in my case I wanted to maintain the ownership of each file uploaded.  If I created a new post with a photo and a caption, I wanted that uploaded file to be under the responsibility of the Post.  The same goes with the User.  With this maintenance, I was able to establish organization while building my app.
 
-User photo form	
+User photo form
+
 ```
 <h1>Edit your Profile</h1>
 <form action="/users/<%= @user.id %>" method="post" enctype="multipart/form-data">
@@ -35,6 +36,7 @@ User photo form
 ```
 
 User photo action to handle file submission
+
 ```
   patch '/users/:id' do
     @user = User.find_by_id(params[:id])
@@ -55,6 +57,7 @@ User photo action to handle file submission
 	```
 
 Post Form
+
 ```
 <h1>Create a new post</h1>
 <form action="/posts" method="post" enctype="multipart/form-data">
@@ -71,6 +74,7 @@ Post Form
 ```
 
 Post action to handle file submitssion
+
 ```
   post '/posts' do
     if params[:file] && params[:caption] != ""
