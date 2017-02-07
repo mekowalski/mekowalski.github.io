@@ -5,7 +5,9 @@ date:   2017-02-07 19:52:40 +0000
 ---
 
 
-Roy T. Fielding wasn't digging the style of the URL's presence back in the day.  He decided there needed to be a better convention.  RESTful actions came into play as an architetural styling of URLs, a standard naming convention for mapping URLs and their corresponding controller actions. With these RESTful actions there maintained consistent properties and gave a certain feel to them.
+Roy T. Fielding wasn't digging the style of the URL's presence back in the day.
+
+He decided there needed to be a better convention.  RESTful actions came into play as an architetural styling of URLs, a standard naming convention for mapping URLs and their corresponding controller actions. With these RESTful actions there maintained consistent properties and gave a certain feel to them.
 
 ## INDEX action
 The INDEX action displays a collection of resources.  Generally this basic action will view an associated template about each resource.  For each resource a link is attached to gain detailed information regarding that specific resource.  The most simple example of the INDEX action will be:
