@@ -29,7 +29,7 @@ The DESTROY action is quite self explanatory.  This action deletes a specific re
 ```
   def destroy
     @dog = Dog.find(params[:id])
-	  redirect_to dogs_path
+    redirect_to dogs_path
   end
 ```
 ## NEW action
@@ -58,7 +58,7 @@ The task of EDIT action is simple also that if provides a form to modify a resou
 
 ```
   def edit
-	@dog = Dog.find(params[:id])
+    @dog = Dog.find(params[:id])
   end
 ```
 ## UPDATE action
