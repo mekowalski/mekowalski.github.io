@@ -17,6 +17,7 @@ The INDEX action displays a collection of resources.  Generally this basic actio
     @dogs = Dog.all
   end
 ```
+
 ## SHOW action
 SHOW action is responsible for displaying information on one object of the collection.  With the dog example from above, I should be able to click the attached link of a dog and be directed to details regarding that one dog.  An example of the SHOW action is:
 
@@ -25,6 +26,7 @@ SHOW action is responsible for displaying information on one object of the colle
     @dog = Dog.find(params[:id])
   end
 ```
+
 ## DESTROY action
 The DESTROY action is quite self explanatory.  This action deletes a specific resource in the collection.  An example of the DESTROY action is:
 
@@ -34,6 +36,7 @@ The DESTROY action is quite self explanatory.  This action deletes a specific re
     redirect_to dogs_path
   end
 ```
+
 ## NEW action
 The task of the NEW action is simply to display a form to produce a new entity that is waiting to be made.  A simple NEW action will be:
 
@@ -42,6 +45,7 @@ The task of the NEW action is simply to display a form to produce a new entity t
     @dog = Dog.new
   end
 ```
+
 ## CREATE action
 The NEW action is the first step in a new object being made.  The second step is the CREATE action.  CREATE actually goes forward to make the new entity occur based on input.  This action will save and build the entity successfully with a following of displaying the new resource.  If by some means the object failes to save and be built CREATE will then render NEW to try again.  NEW and CREATE work together.  An example of CREATE action is:
 
@@ -55,6 +59,7 @@ The NEW action is the first step in a new object being made.  The second step is
     end
   end
 ```
+
 ## EDIT action
 The task of EDIT action is simple also that if provides a form to modify a resource.  A simple EDIT action is:
 
@@ -63,6 +68,7 @@ The task of EDIT action is simple also that if provides a form to modify a resou
     @dog = Dog.find(params[:id])
   end
 ```
+
 ## UPDATE action
 Similar to the relationship of NEW and CREATE, EDIT works with UPDATE to process the form with the input recieved and displays the view of the modified resource.  UPDATE will also render EDIT to try again if the inital modification failed to be updated.  An example of UPDATE action will be:
 
