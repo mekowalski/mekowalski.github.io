@@ -21,3 +21,5 @@ In conclusion for this post I want to mention the difficulty I had with implemen
 Here is my Rails app with Javascript implementation.  I'm happy of the simplicity and turnout for this app.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ykcQYRr7lrc?list=PLVGZtzeBJ6sPPodCh-Pw8ngNXZcdeZTAK" frameborder="0" allowfullscreen></iframe>
+
+### HAPPY CODING, malind
