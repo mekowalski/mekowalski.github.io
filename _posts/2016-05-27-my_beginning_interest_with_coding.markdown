@@ -21,3 +21,5 @@ I reside in the mountains in Southwest Colorado.  I have been inspired and fortu
 
 ![](http://s20.postimg.org/4u3y69x3x/ss4.jpg)![](http://s20.postimg.org/g7qhhh7ml/ss7.jpg)![](http://s20.postimg.org/5rxcburj1/ss11.jpg)![](http://s20.postimg.org/7upe0jxst/ss5.jpg)
 ![](http://s20.postimg.org/83idcql7h/ss6.jpg)![](http://s20.postimg.org/wzgedyx99/ss9.jpg)![](http://s20.postimg.org/d8o683nj1/ss8.jpg)![](http://s20.postimg.org/5qneifpp9/ss12.jpg)
+
+### HAPPY CODING, malind
