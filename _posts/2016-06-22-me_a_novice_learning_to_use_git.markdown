@@ -19,3 +19,5 @@ Once I finished modifying my projects I was ready for part two: Staging.  I noti
 Finally, Repository.  Here I knew this is where my projects were stored but I didn't know this is where all versions of my projects were also kept.  I thought it was a folder for holding final, finished projects but no.  Repository keeps track of all versions of my projects.  This meant I could be a time traveller, go back and forth from the past to current versions of a project and reminisce about the long hours spent on one version of my project.
 
 <img src="https://s20.postimg.org/n3flc5a1p/git.png"/>
+
+### HAPPY CODING, malind
