@@ -92,3 +92,5 @@ In the CREATE and UPDATE actions I am taking in an argument of `dog_params` that
     params.require(:dog).permit(:name, :age, :breed)
   end
 ```
+
+### HAPPY CODING, malind
