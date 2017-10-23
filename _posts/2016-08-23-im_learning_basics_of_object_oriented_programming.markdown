@@ -46,8 +46,4 @@ If everytime I wanted each blogger to express their love of fashion, I could bui
 
 These are the few, simple steps when creating a Class.  A class can be a simple or complex as you would like it.  I'm learning still on how to build classes and how to collaborate with other objects.  For now I'll leave at this.
 
-Happy Coding!
-
-
-
-
+### HAPPY CODING, malind
