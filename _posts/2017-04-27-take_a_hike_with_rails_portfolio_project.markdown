@@ -25,3 +25,5 @@ Again if coding was a quick learning process, almost everyone would learn to cod
 Here is my Rails Hike App.  I am proud of the simplicity I was able to make occur in this web application.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/toD0ddm6Qbs" frameborder="0" allowfullscreen></iframe>
+
+### HAPPY CODING, malind
